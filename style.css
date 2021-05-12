@@ -1,0 +1,17 @@
+.bg-red{
+    background-color: rgba(248, 61, 139, 0.849);
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+    ;
+ 
+    padding: 7px;
+  }
+  .grid-item {
+ 
+    border: 1px solid rgba(0, 0, 0, 0.287);
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+  }
